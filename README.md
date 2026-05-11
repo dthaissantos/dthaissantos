@@ -25,8 +25,6 @@ Transformo dados em decisões estratégicas, dashboards em narrativas e padrões
 
 Sou uma profissional de dados atuando na área de **prevenção a fraudes**, com foco em análise de grandes volumes de dados, criação de dashboards, investigação de padrões transacionais, automação de processos e geração de insights para tomada de decisão.
 
-Tenho uma combinação pouco óbvia — e é exatamente aí que mora o molho:
-
 - 📊 **Dados**: SQL, Python, análise exploratória, relatórios e automações
 - 🛡️ **Fraude & Risco**: comportamento transacional, monitoramento e investigação de anomalias
 - 📈 **BI & Visualização**: Qlik Sense, Power BI, KPIs e dashboards estratégicos
