@@ -1,4 +1,4 @@
-# 💜 Thais Santos
+# Thais Santos
 
 **Analista de Dados | BI & Analytics | Experiência em fraudes e meios de pagamento**
 
