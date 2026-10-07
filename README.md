@@ -1,148 +1,41 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,FF1493,00BFFF&height=180&section=header&text=Thais%20Santos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+# 💜 Thais Santos
 
-<h1 align="center">💜 Olá, eu sou a Thais Santos</h1>
+**Analista de Dados | BI & Analytics | Experiência em fraudes e meios de pagamento**
 
-<h3 align="center">
-Analista de Dados | Prevenção a Fraudes • BI • Automação • Fintech
-</h3>
+Tenho experiência em análise de indicadores, desenvolvimento de dashboards, tratamento de bases e apoio à tomada de decisão. Minha trajetória passou por prevenção a fraudes, Operações, Tecnologia e Pricing, com demandas de áreas como Marketing, Produtos e Logística.
 
-<p align="center">
-Transformo dados transacionais em insights estratégicos para prevenção a fraudes, eficiência operacional e tomada de decisão.
-</p>
+Busco oportunidades **100% remotas em Dados, BI e Analytics**, com atuação em análises de negócio, indicadores e automação de processos.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/athais-santos/">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/dthaissantos">
-    <img src="https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+## Experiência e ferramentas
 
----
+| Área | Aplicação na minha trajetória |
+| --- | --- |
+| SQL | Consultas, subqueries, tratamento de dados e atualizações com MERGE. |
+| Power BI e Qlik Sense | Tratamento de dados, desenvolvimento de dashboards e acompanhamento de indicadores. |
+| Databricks | Utilização de fluxos existentes e tratamento de tabelas de Excel carregadas para análises e dashboards. |
+| AWS | Experiência com buckets na área de Tecnologia da Acqio. |
+| BigQuery | Tratamento e carga de bases para análises e construção de indicadores. |
+| Python | Pequenas automações e consultas a bases de dados, com apoio de IA no desenvolvimento. |
+| Power Query e Power Automate | Tratamento de dados e automação de rotinas e relatórios. |
+| Excel e Google Sheets | Organização de bases e apoio às análises. |
 
-## 🕵️‍♀️ Sobre mim
+Em prevenção a fraudes, trabalhei com análise de comportamento transacional, identificação de perfis fraudulentos e indicadores para apoiar especialistas e identificar oportunidades de criação e calibração de regras. Também tenho experiência em KYC, validação cadastral e documentoscopia.
 
-Atuo na área de **dados em uma fintech do setor de meios de pagamento**, com experiência em análise de dados, prevenção a fraudes, KYC, monitoramento de indicadores estratégicos, automação de processos analíticos e desenvolvimento de dashboards.
+## Estudos e portfólio
 
-Minha atuação é focada em transformar dados em informações claras, úteis e acionáveis para apoiar decisões de negócio, fortalecer processos de controle, melhorar a eficiência operacional e gerar mais visibilidade para áreas estratégicas.
+Meu portfólio está em reestruturação para apresentar novos projetos com contexto, dados, decisões técnicas, resultados e limitações.
 
-No meu dia a dia, trabalho com análise de grandes volumes de dados, investigação de padrões transacionais, acompanhamento de indicadores operacionais e construção de soluções analíticas usando **SQL, Python, Databricks, Power BI, Qlik Sense, Power Query e Power Automate**.
+- [Fundamentos de Python](https://github.com/dthaissantos/python-para-dados): exercícios de estudo realizados a partir da trilha de Analista de Dados da Alura. O repositório reúne práticas introdutórias de entradas, tipos de dados e operadores; sua documentação e os notebooks estão em revisão.
+- Tenho também um dashboard desenvolvido em Tableau, ainda não publicado neste portfólio.
 
-Também tenho experiência com processos de **KYC (Know Your Customer)**, validação cadastral, documentoscopia, manutenção de dados cadastrais e apoio a iniciativas voltadas à qualidade, segurança e governança da informação.
+A experiência profissional descrita acima é distinta dos exercícios atualmente publicados.
 
-Além da área de dados, tenho formação e repertório em **moda e marketing**, o que influencia minha forma de construir análises, dashboards e narrativas visuais com foco em clareza, estética e impacto de negócio.
+## Formação e desenvolvimento
 
-> Para mim, dado bom não é só correto: ele precisa ser compreensível, acionável e difícil de ignorar.
+- Graduação em Tecnologia em Marketing — Universidade Anhembi Morumbi.
+- MBA em Inteligência de Dados & Analytics para Negócios — Universidade Presbiteriana Mackenzie, em andamento.
+- Interesse em aprofundar IA aplicada à análise de dados e à automação, com validação dos resultados.
 
----
+## Contato
 
-## 🧬 Meu mix profissional
-
-- 📊 **Dados:** SQL, Python, análise exploratória, relatórios e automações
-- 🛡️ **Fraude & Risco:** comportamento transacional, monitoramento e investigação de anomalias
-- 📈 **BI & Visualização:** Qlik Sense, Power BI, KPIs e dashboards estratégicos
-- ⚙️ **Automação:** Power Automate, rotinas operacionais e otimização de processos
-- 🎨 **Moda & Marketing:** estética, storytelling, posicionamento e visão de negócio
-- 🎮 **Games:** lógica, estratégia, curiosidade e pensamento analítico
-
----
-
-## 💼 Foco profissional
-
-Atuo na interseção entre **dados, prevenção a fraudes, risco, BI, automação e performance de negócio**.
-
-Tenho experiência em análises aplicadas a:
-
-- 🛡️ Prevenção a fraudes
-- 🧾 Credenciamento / Conheça os seus (KYC)
-- 📊 Indicadores estratégicos e operacionais
-- 💳 Meios de pagamento
-- 📈 TPV e performance de produtos financeiros
-- 🧮 Pricing e análise de rentabilidade
-- ⚙️ Automação de processos analíticos
-- 📌 Dashboards para gestão e diretoria
-- 🔎 Investigação de padrões transacionais
-- 🧠 Storytelling com dados
-
-Gosto de trabalhar onde dados encontram negócio: traduzindo bases complexas em análises objetivas, visuais e relevantes para apoiar decisões.
-
----
-
-## ⚡ Minha stack atual
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,aws" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![SQL](https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-00B140?style=for-the-badge&logo=qlik&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-00BFFF?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Fraud Analysis](https://img.shields.io/badge/Fraud%20Analysis-111111?style=for-the-badge&logo=datadog&logoColor=white)
-
-</div>
-
----
-
-## 🧩 Meu perfil em YAML
-
-```yaml
-thais_santos:
-  area: "Dados em fintech e meios de pagamento"
-  cargo: "Analista de Dados"
-  foco_principal:
-    - "Prevenção a fraudes"
-    - "Business Intelligence"
-    - "Automação de processos analíticos"
-    - "Indicadores estratégicos"
-    - "Eficiência operacional"
-
-  ferramentas:
-    linguagens:
-      - SQL
-      - Python
-    dados_e_analytics:
-      - Databricks
-      - Power BI
-      - Qlik Sense
-      - Excel
-      - Power Query
-    automacao:
-      - Power Automate
-    versionamento:
-      - Git
-      - GitHub
-
-  experiencia:
-    - "Análise de grandes volumes de dados"
-    - "Monitoramento de transações"
-    - "Investigação de padrões suspeitos"
-    - "Criação e acompanhamento de KPIs"
-    - "Dashboards para áreas estratégicas"
-    - "Automação de relatórios e rotinas"
-    - "KYC e validação cadastral"
-    - "Documentoscopia"
-    - "Pricing e análise de performance"
-    - "TPV e indicadores financeiros"
-
-  diferencial:
-    - "Visão analítica"
-    - "Pensamento estratégico"
-    - "Criatividade visual"
-    - "Storytelling com dados"
-    - "Repertório em moda e marketing"
-    - "Interesse por games, lógica e estratégia"
-
-  frase:
-    "Investigar dados é quase um boss fight — só que com query, dashboard e café."
+[LinkedIn](https://www.linkedin.com/in/athais-santos/)
